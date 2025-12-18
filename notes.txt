@@ -1,3 +1,8 @@
 succesfully connected to git
 now i can create,update and edit the files using git
 trying to add new line to git
+trying to add multiple lines
+trying to add multiple lines
+just checking
+just practicing
+just testing
