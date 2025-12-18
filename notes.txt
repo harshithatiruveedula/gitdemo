@@ -1,2 +1,3 @@
-line from new branch
+succesfully connected to git
+now i can create,update and edit the files using git
 
